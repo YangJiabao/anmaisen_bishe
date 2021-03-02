@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06f1d61e-c030-4ba8-bb4e-b6acf7573122" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/anmaisen" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AMS-V0.0.2-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AMS-V0.0.2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AMS-V0.0.3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/call_main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text.py" />
-    </list>
+    <list default="true" id="06f1d61e-c030-4ba8-bb4e-b6acf7573122" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
